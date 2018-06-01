@@ -63,7 +63,8 @@ public class ProductCtl {
     public void setProductList(List<Produto> productList) {
         this.productList = productList;
     }
-
+    
+   
     /**
      * @return the prod
      */
@@ -78,8 +79,8 @@ public class ProductCtl {
         this.prod = prod;
     }
     
-    public String addNewProduct(){
-        //prod.setVendid(vende);
+    public String addNewProduct(Vendedor ven){
+        prod.setVendid(ven);
         
         pb.addProduct(prod);
         
@@ -117,15 +118,6 @@ public class ProductCtl {
     }
     
     
-    public String mostraVendedor(){
-        String nm = "";
-        for(int i=0; i < productList.size(); i++){
-            if(productList.get(i).getProdid().equals(aux)){
-                nm = productList.get(i).getNome();
-                return nm;
-            }
-        }
-    return null;
-    }
+    
     
 }

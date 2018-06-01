@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/listProduct.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/entity/Vendedor.java</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/entity/Produto.java</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/beans/ProductBean.java</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/controlers/ProductCtl.java</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/addNewProduct.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/userPage.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/index.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/shop.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/showContacto.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/addNewVendedor.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/web/listVendedor.xhtml</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/beans/VendedorBean.java</file>
+            <file>file:/C:/Users/pedro/Desktop/SD_JavaBeans/WebApp/Catalogo/src/java/controlers/VendedorCtl.java</file>
+        </group>
+    </open-files>
+</project-private>

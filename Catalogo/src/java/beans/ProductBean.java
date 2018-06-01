@@ -30,6 +30,7 @@ public class ProductBean {
         return p;
     }
     
+    
     // Add business logic below. (Right-click in editor and choose
     // "Insert Code > Add Business Method")
 }
